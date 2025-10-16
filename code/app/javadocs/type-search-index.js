@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.example.lab6_listycity","l":"City"},{"p":"com.example.lab6_listycity","l":"CityList"},{"p":"com.example.lab6_listycity","l":"CityListTest"},{"p":"com.example.lab6_listycity","l":"ExampleInstrumentedTest"},{"p":"com.example.lab6_listycity","l":"MainActivity"},{"l":"所有类和接口","u":"allclasses-index.html"}];updateSearchResults();
