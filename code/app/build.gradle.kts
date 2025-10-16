@@ -32,6 +32,13 @@ android {
     tasks.withType<Test> {
         useJUnitPlatform()
     }
+    tasks.withType<Javadoc>().configureEach {
+        options {
+            locale = "en_US"
+            encoding = "UTF-8"
+            charset("UTF-8")
+        }
+    }
 }
 
 dependencies {
